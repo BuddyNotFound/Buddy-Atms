@@ -1,2 +1,2 @@
-# Buddy-Atms
- FiveM ATM script / needs license
+IMPORTANT : THE SCRIPT WILL NOT WORK THIS IS A PREVIEW IF YOU WANT TO USE THE SCRIPTS PURACHSE IT FROM TEBEX
+https://buddyscripts.tebex.io
